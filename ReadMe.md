@@ -46,6 +46,16 @@ git config --global alias.adog "log --all --decorate --oneline --graph"
 - creates a git alias for the log all decorate oneline graph command.
 - use this alias by entering `git adog` (much shorter)
 
+```bash
+git remote add origin URI
+```
+- assign the remote "origin" repository to the URI given
+- replace URI with the relevant github/etc location
+
+```bash
+git push -u origin master
+```
+- Push the committed changes up to the "origin"
 
 
 ## Other Git Things
