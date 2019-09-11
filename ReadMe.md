@@ -65,4 +65,4 @@ not to be part of the repository (that is - ignored when
 adding/committing)
 
 Comprehensive .gitignore found at:
-(https://github.com/github/gitignore/blob/master/Python.gitignore)[https://github.com/github/gitignore/blob/master/Python.gitignore]
+[https://github.com/github/gitignore/blob/master/Python.gitignore](https://github.com/github/gitignore/blob/master/Python.gitignore)
